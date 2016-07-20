@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">JSONParsingFull</string>
+    <string name="title_activity_simple_receive_data">SimpleReceiveData</string>
+</resources>
